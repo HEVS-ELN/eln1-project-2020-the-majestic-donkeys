@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Eln1Project.PrjPcb]
+   Generated File[Eln1Project.GTL]
+   Generated File[Eln1Project.GP1]
+   Generated File[Eln1Project.G1]
+   Generated File[Eln1Project.GBL]
+   Generated File[Eln1Project.RUL]
+   Generated File[Eln1Project.EXTREP]
+   Generated File[Eln1Project.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 17:39:34 On 03.06.2020

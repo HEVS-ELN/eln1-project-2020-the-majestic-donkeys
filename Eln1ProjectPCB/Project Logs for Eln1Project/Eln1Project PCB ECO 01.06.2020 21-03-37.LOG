@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=IC1 Old Footprint=SOT95P237X112-3N New Footprint=SOT95P237X112-3N
+Change Physical Footprint: Designator=IC2 Old Footprint=SOP50P490X110-10N New Footprint=SOP50P490X110-10N
+Change Physical Footprint: Designator=IC4 Old Footprint=SOT65P218X110-6N New Footprint=SOT65P218X110-6N
+Change Physical Footprint: Designator=J1 Old Footprint=PinHeader1x5 P1.27 New Footprint=PinHeader1x5 P1.27

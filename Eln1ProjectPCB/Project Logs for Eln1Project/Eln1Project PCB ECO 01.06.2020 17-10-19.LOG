@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VSS Pin=BT1-1
+Removed Pin From Net: NetName=VCC Pin=BT1-2
+Removed Member From Class: ClassName=ELN1project Member=BT1
+Added Component: Designator=G1(Battery Holder Renata SMTU2450)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=G1-1
+Added Pin To Net: NetName=VSS Pin=G1-2
+Added Member To Class: ClassName=ELN1project Member=Component G1 *
+Added Room: Name=ELN1project

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Vin Pin=IC3-3
+Removed Pin From Net: NetName=shdEn Pin=IC3-11
+Change Component Footprint: Designator=BT1 Old Footprint=TECO-120591-1-2_V New Footprint=TECO-120591-1-2_V
+Added Pin To Net: NetName=Vin Pin=IC3-2
+Added Pin To Net: NetName=shdEn Pin=IC3-3
+Added Member To Class: ClassName=ELN1project Member=Component BT1 120591-1
+Added Member To Class: ClassName=ELN1project Member=Component IC2 MAX9913EUB+
+Added Member To Class: ClassName=ELN1project Member=Component IC3 NRF52810-QCAA-T
+Added Room: Name=ELN1project

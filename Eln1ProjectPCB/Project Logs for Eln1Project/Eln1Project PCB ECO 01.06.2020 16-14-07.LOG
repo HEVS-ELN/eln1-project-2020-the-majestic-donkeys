@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AGND Pin=IC3-4
+Removed Pin From Net: NetName=Vout1 Pin=IC3-5
+Removed Pin From Net: NetName=Vout2 Pin=IC3-27
+Added Pin To Net: NetName=Vout1 Pin=IC3-4
+Added Pin To Net: NetName=Vout2 Pin=IC3-5
+Added Pin To Net: NetName=AGND Pin=IC3-27
+Added Room: Name=ELN1project

@@ -1,0 +1,64 @@
+Added Component: Designator=IC3(QFN50P500X500X80-33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/nRF52810-QCAA-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NRF52810-QCAA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "949-NRF52810-QCAA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nRF52810-QCAA-T?qs=5aG0NVq1C4ykfpvypn%2FnAA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1697120P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1697120P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=IC3-1
+Added Pin To Net: NetName=Vin Pin=IC3-2
+Added Pin To Net: NetName=shdEn Pin=IC3-3
+Added Pin To Net: NetName=Vout1 Pin=IC3-4
+Added Pin To Net: NetName=Vout2 Pin=IC3-5
+Added Pin To Net: NetName=VCC Pin=IC3-9
+Added Pin To Net: NetName=NRESET Pin=IC3-16
+Added Pin To Net: NetName=SWDCLK Pin=IC3-17
+Added Pin To Net: NetName=SWDIO Pin=IC3-18
+Added Pin To Net: NetName=NetC11_2 Pin=IC3-19
+Added Pin To Net: NetName=VSS Pin=IC3-20
+Added Pin To Net: NetName=NetC10_1 Pin=IC3-21
+Added Pin To Net: NetName=NetC8_1 Pin=IC3-22
+Added Pin To Net: NetName=NetC7_1 Pin=IC3-23
+Added Pin To Net: NetName=NetC5_1 Pin=IC3-24
+Added Pin To Net: NetName=VCC Pin=IC3-25
+Added Pin To Net: NetName=AGND Pin=IC3-27
+Added Pin To Net: NetName=VSS Pin=IC3-29
+Added Pin To Net: NetName=NetC1_2 Pin=IC3-30
+Added Pin To Net: NetName=NetIC3_31 Pin=IC3-31
+Added Pin To Net: NetName=VCC Pin=IC3-32
+Added Pin To Net: NetName=VSS Pin=IC3-33
+Added Member To Class: ClassName=ELN1project Member=Component BT1 120591-1
+Added Member To Class: ClassName=ELN1project Member=Component C1 1uF
+Added Member To Class: ClassName=ELN1project Member=Component C2 N.C.
+Added Member To Class: ClassName=ELN1project Member=Component C3 4.7uF
+Added Member To Class: ClassName=ELN1project Member=Component C4 100nF
+Added Member To Class: ClassName=ELN1project Member=Component C5 12pF
+Added Member To Class: ClassName=ELN1project Member=Component C6 10nF
+Added Member To Class: ClassName=ELN1project Member=Component C7 12pF
+Added Member To Class: ClassName=ELN1project Member=Component C8 100pF
+Added Member To Class: ClassName=ELN1project Member=Component C9 100nF
+Added Member To Class: ClassName=ELN1project Member=Component C10 N.C.
+Added Member To Class: ClassName=ELN1project Member=Component C11 0.8pF
+Added Member To Class: ClassName=ELN1project Member=Component C12 100nF
+Added Member To Class: ClassName=ELN1project Member=Component C13 100nF
+Added Member To Class: ClassName=ELN1project Member=Component C14 100nF
+Added Member To Class: ClassName=ELN1project Member=Component IC1 ISL21080CIH315Z-TK
+Added Member To Class: ClassName=ELN1project Member=Component IC2 MAX9913EUB+
+Added Member To Class: ClassName=ELN1project Member=Component IC3 NRF52810-QCAA-T
+Added Member To Class: ClassName=ELN1project Member=Component IC4 MAX9911EXT-T
+Added Member To Class: ClassName=ELN1project Member=Component J1 *
+Added Member To Class: ClassName=ELN1project Member=Component J2 *
+Added Member To Class: ClassName=ELN1project Member=Component L1 15nH
+Added Member To Class: ClassName=ELN1project Member=Component L2 10uH
+Added Member To Class: ClassName=ELN1project Member=Component L3 3.9nH
+Added Member To Class: ClassName=ELN1project Member=Component R1 65k
+Added Member To Class: ClassName=ELN1project Member=Component R2 20k
+Added Member To Class: ClassName=ELN1project Member=Component R3 10k
+Added Member To Class: ClassName=ELN1project Member=Component R4 10k
+Added Member To Class: ClassName=ELN1project Member=Component R5 20k
+Added Member To Class: ClassName=ELN1project Member=Component R6 10k
+Added Member To Class: ClassName=ELN1project Member=Component X1 32Mhz
+Added Room: Name=ELN1project

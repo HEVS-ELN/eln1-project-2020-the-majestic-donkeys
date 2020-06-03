@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VCC Pin=G1-1
+Removed Pin From Net: NetName=VCC Pin=G1-1
+Removed Pin From Net: NetName=VSS Pin=G1-2
+Removed Member From Class: ClassName=ELN1project Member=G1
+Added Component: Designator=BT1(TECO-120591-1-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "AccessRights"; Value = "2147483647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AncestorItemRevisionGUID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Shape"; Value = "Horizontal Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F120591%7FH%7Fpdf%7FEnglish%7FENG_CD_120591_H.pdf%7F120591-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContentType"; Value = "Unified Component"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContentTypeGUID"; Value = "CB3C11C4-E317-11DF-B822-12313F0024A2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. H, 01/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Folder"; Value = "Unified Components\Components\TE Connectivity\Connectors & Connector Components\Power Products\Battery Interconnection Products\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FolderGUID"; Value = "A6761B51-D489-48A3-9180-F4808F45AB79"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ItemDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ItemGUID"; Value = "B2C50140-681E-4F62-8DBB-9728605318CE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ItemHRID"; Value = "CMP-0438-00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Released"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycleStateGUID"; Value = "61E382EE-6656-4F12-9E24-BE9327104A25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Lithium Battery Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "120591-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing Type"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "120591-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ReleaseDate"; Value = "20/08/2013 02:50:22 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ReleaseNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceGUID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceVaultGUID"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=VSS Pin=BT1-2
+Added Member To Class: ClassName=ELN1project Member=Component BT1 120591-1
+Added Room: Name=ELN1project

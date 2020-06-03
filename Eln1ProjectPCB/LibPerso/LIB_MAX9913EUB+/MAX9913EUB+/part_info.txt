@@ -1,0 +1,9 @@
+Manufacturer=Maxim Integrated
+PartNumber=MAX9913EUB+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=1.1
+Released=
+Downloaded=2020-05-14 08:11:05
+3D=Y
